@@ -1,0 +1,7 @@
+{
+  "name": "TalentPulse AI",
+  "description": "An intelligent ATS-like application that compares multiple CVs against a Job Description and conducts automated screening calls using Gemini Live.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
